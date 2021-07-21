@@ -1,4 +1,4 @@
-# Malicious Web Content Detection using Machine Learning
+# Detecting Phishing Website using Machine Learning
 
 #### NOTE - 
 #### 1. If you face any issue, first refer to [Troubleshooting.md](docs/Troubleshooting.md). If you are still not able to resolve it, please file an issue with the appropriate template (Bug report, question, custom issue or feature request).
